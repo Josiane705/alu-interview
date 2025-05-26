@@ -40,4 +40,3 @@ def rain(walls):
             right -= 1
 
     return total_water
-
